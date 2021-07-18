@@ -21,7 +21,7 @@ public class Main {
             System.out.println("Enter %");
             float percent = sc.nextFloat();
 
-            priceAfterDiscount = (price - (1/percent) * price);
+            priceAfterDiscount = (price - (percent/100) * price);
         }
 
         System.out.println("Product : " + "'" + name + "'" + " Price before discount : " + price + " after discount : " + priceAfterDiscount);
