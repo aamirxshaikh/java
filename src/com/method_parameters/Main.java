@@ -1,4 +1,4 @@
-package com.add;
+package com.method_parameters;
 
 public class Main {
     public static void main(String[] args) {
