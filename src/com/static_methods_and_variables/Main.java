@@ -2,25 +2,26 @@ package com.static_methods_and_variables;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Main.value);
-        System.out.println(Main.getNumber(22));
+        Main m = new Main();
 
-        System.out.println(value);
-        System.out.println(getNumber(20));
+        set(20);
 
-        Main.set();
-
-        System.out.println(nonStatic);
+        m.getStaticMember();
+        m.getStaticMethod();
+        m.getStaticMember();
     }
 
-    public static int value = 19;
-    public int nonStatic = 1;
+    static int i = 10;
 
-    public static int getNumber (int number) {
-        return number;
+    static void set (int setValue) {
+        i = setValue;
     }
 
-    public static void set () {
-        nonStatic = value;
+    void getStaticMember () {
+        System.out.println(i);
+    }
+
+    void getStaticMethod () {
+        set(30);
     }
 }
