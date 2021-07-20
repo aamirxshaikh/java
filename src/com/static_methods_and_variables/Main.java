@@ -1,4 +1,4 @@
-package com.static_methods;
+package com.static_methods_and_variables;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,11 +7,20 @@ public class Main {
 
         System.out.println(value);
         System.out.println(getNumber(20));
+
+        Main.set();
+
+        System.out.println(nonStatic);
     }
 
     public static int value = 19;
+    public int nonStatic = 1;
 
     public static int getNumber (int number) {
         return number;
+    }
+
+    public static void set () {
+        nonStatic = value;
     }
 }
