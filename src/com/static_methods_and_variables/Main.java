@@ -7,7 +7,7 @@ public class Main {
         set(20);
 
         m.getStaticMember();
-        m.getStaticMethod();
+        m.setStaticMethod();
         m.getStaticMember();
     }
 
@@ -21,7 +21,7 @@ public class Main {
         System.out.println(i);
     }
 
-    void getStaticMethod () {
+    void setStaticMethod () {
         set(30);
     }
 }
