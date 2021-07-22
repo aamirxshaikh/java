@@ -1,7 +1,7 @@
 package com.inheritance_super;
 
 public class Parent {
-    String surname;
+    protected final String surname;
 
     Parent (String surname) {
         this.surname = surname;
@@ -9,6 +9,8 @@ public class Parent {
 
     public static void main(String[] args) {
         Child c = new Child();
+
+        // c.surname = "New surname"; // cannot modify final variable
 
         System.out.println(c.surname);
     }
