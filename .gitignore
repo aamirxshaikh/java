@@ -3,7 +3,6 @@ src/hackerrank/currency_formatter/*
 src/hackerrank/dates/*
 src/hackerrank/primitive_fit/*
 src/hackerrank/read_line/*
-src/hackerrank/series/*
 src/hackerrank/static_init/*
 src/hackerrank/tag_content_extractor/*
 
@@ -12,6 +11,7 @@ out/production/untitled104/hackerrank/currency_formatter/*
 out/production/untitled104/hackerrank/dates/*
 out/production/untitled104/hackerrank/primitive_fit/*
 out/production/untitled104/hackerrank/read_line/*
-out/production/untitled104/hackerrank/series/*
 out/production/untitled104/hackerrank/static_init/*
 out/production/untitled104/hackerrank/tag_content_extractor/*
+
+src/hackathon/*
