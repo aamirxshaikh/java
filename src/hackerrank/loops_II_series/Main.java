@@ -1,4 +1,4 @@
-package hackerrank.series;
+package hackerrank.loops_II_series;
 
 import java.util.Scanner;
 

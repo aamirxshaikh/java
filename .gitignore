@@ -1,17 +1,15 @@
-src/hackerrank/convert/*
+src/hackerrank/int_to_string/*
 src/hackerrank/currency_formatter/*
-src/hackerrank/dates/*
-src/hackerrank/primitive_fit/*
+src/hackerrank/date_and_time/*
 src/hackerrank/read_line/*
-src/hackerrank/static_init/*
+src/hackerrank/static_initializer_block/*
 src/hackerrank/tag_content_extractor/*
 
-out/production/untitled104/hackerrank/convert/*
+out/production/untitled104/hackerrank/int_to_string/*
 out/production/untitled104/hackerrank/currency_formatter/*
-out/production/untitled104/hackerrank/dates/*
-out/production/untitled104/hackerrank/primitive_fit/*
+out/production/untitled104/hackerrank/date_and_time/*
 out/production/untitled104/hackerrank/read_line/*
-out/production/untitled104/hackerrank/static_init/*
+out/production/untitled104/hackerrank/static_initializer_block/*
 out/production/untitled104/hackerrank/tag_content_extractor/*
 
 src/hackathon/*
