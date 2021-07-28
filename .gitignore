@@ -1,7 +1,6 @@
 src/hackerrank/int_to_string/*
 src/hackerrank/currency_formatter/*
 src/hackerrank/date_and_time/*
-src/hackerrank/read_line/*
 src/hackerrank/static_initializer_block/*
 src/hackerrank/tag_content_extractor/*
 
@@ -13,3 +12,4 @@ out/production/untitled104/hackerrank/static_initializer_block/*
 out/production/untitled104/hackerrank/tag_content_extractor/*
 
 src/hackathon/*
+out/production/untitled104/hackathon/*
