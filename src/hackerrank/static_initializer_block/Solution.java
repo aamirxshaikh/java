@@ -15,7 +15,7 @@ public class Solution {
             if (B <= 0 || H <= 0) {
                 flag = false;
 
-                throw new Exception("java.lang.Exception: Breadth and height must be positive");
+                throw new Exception("Breadth and height must be positive");
             }
         } catch (Exception ex) {
             System.out.println(ex);
