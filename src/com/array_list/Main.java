@@ -26,6 +26,10 @@ public class Main {
 
         items.remove("item 3");
 
-        System.out.println(items + "" + nos + "" + chs + "" + bool + "" + dates);
+        items.set(0, "item 0");
+
+        for (int i = 0; i < items.size(); i++) {
+            System.out.println(items.get(i));
+        }
     }
 }
