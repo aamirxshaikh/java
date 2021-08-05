@@ -9,6 +9,13 @@ public class Main {
         m.getStaticMember();
         m.setStaticMethod();
         m.getStaticMember();
+
+        Solution s = new Solution();
+        Solution s2 = new Solution();
+        Solution s3 = new Solution();
+
+        System.out.println(Solution.value);
+        Solution.displayValue();
     }
 
     static int i = 10;
@@ -23,5 +30,17 @@ public class Main {
 
     void setStaticMethod () {
         set(30);
+    }
+
+    static class Solution {
+        static int value;
+
+        Solution () {
+            value ++;
+        }
+
+        static void displayValue () {
+            System.out.println("Value is " + value);
+        }
     }
 }

@@ -26,6 +26,8 @@ src/practice/string_to_integer
 src/practice/remove_white_spaces
 src/practice/remove_duplicate_characters
 
+src/com/object_passing
+
 
 out/production/untitled104/practice/baskets
 out/production/untitled104/practice/fibonacci
