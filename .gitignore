@@ -27,6 +27,7 @@ src/practice/remove_white_spaces
 src/practice/remove_duplicate_characters
 
 src/com/object_passing
+src/com/inheritance_multiple
 
 
 out/production/untitled104/practice/baskets
@@ -57,3 +58,5 @@ out/production/untitled104/practice/string_to_integer
 out/production/untitled104/practice/remove_white_spaces
 out/production/untitled104/practice/remove_duplicate_characters
 
+out/production/untitled104/com/object_passing
+out/production/untitled104/com/inheritance_multiple
