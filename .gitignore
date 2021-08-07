@@ -1,5 +1,4 @@
 src/practice/baskets
-src/practice/fibonacci
 src/practice/fibonacci_recursion
 src/practice/input_random_numbers_array
 src/practice/leap_year
@@ -31,7 +30,6 @@ src/com/inheritance_multiple
 
 
 out/production/untitled104/practice/baskets
-out/production/untitled104/practice/fibonacci
 out/production/untitled104/practice/fibonacci_recursion
 out/production/untitled104/practice/input_random_numbers_array
 out/production/untitled104/practice/leap_year
