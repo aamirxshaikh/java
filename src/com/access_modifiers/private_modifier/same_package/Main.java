@@ -7,8 +7,8 @@ public class Main {
         Child c = new Child();
         com.access_modifiers.private_modifier.different_package.Child dc = new com.access_modifiers.private_modifier.different_package.Child();
 
-        System.out.println(c.name); // Not accessible
-        System.out.println(dc.name); // Not accessible
+//        System.out.println(c.name); // Not accessible
+//        System.out.println(dc.name); // Not accessible
 
         System.out.println(p); // Accessible
     }
