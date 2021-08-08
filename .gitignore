@@ -1,5 +1,4 @@
 src/practice/baskets
-src/practice/input_random_numbers_array
 src/practice/leap_year
 src/practice/lunch_boxes
 src/practice/lunch_boxes_2
@@ -29,7 +28,6 @@ src/com/inheritance_multiple
 
 
 out/production/untitled104/practice/baskets
-out/production/untitled104/practice/input_random_numbers_array
 out/production/untitled104/practice/leap_year
 out/production/untitled104/practice/lunch_boxes
 out/production/untitled104/practice/lunch_boxes_2
