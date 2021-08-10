@@ -25,7 +25,6 @@ src/practice/remove_duplicate_characters
 
 src/com/object_passing
 src/com/inheritance_multiple
-src/com/files/file_reader
 src/com/files/file_writer
 
 out/production/untitled104/practice/baskets
@@ -55,5 +54,4 @@ out/production/untitled104/practice/remove_duplicate_characters
 
 out/production/untitled104/com/object_passing
 out/production/untitled104/com/inheritance_multiple
-out/production/untitled104/com/files/file_reader
 out/production/untitled104/com/files/file_writer
