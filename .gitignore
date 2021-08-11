@@ -8,7 +8,7 @@ src/practice/palindrome_string
 src/practice/pattern
 src/practice/prime_numbers
 src/practice/prime_numbers_between
-src/practice/random_number_array
+src/practice/get_random_element_array
 src/practice/rev_array
 src/practice/rev_array_temp
 src/practice/row_col_sum
@@ -21,11 +21,9 @@ src/practice/first_repeated_character
 src/practice/substring_present
 src/practice/string_to_integer
 src/practice/remove_white_spaces
-src/practice/remove_duplicate_characters
 
 src/com/object_passing
 src/com/inheritance_multiple
-src/com/files/file_writer
 
 out/production/untitled104/practice/baskets
 out/production/untitled104/practice/leap_year
@@ -37,7 +35,6 @@ out/production/untitled104/practice/palindrome_string
 out/production/untitled104/practice/pattern
 out/production/untitled104/practice/prime_numbers
 out/production/untitled104/practice/prime_numbers_between
-out/production/untitled104/practice/random_element
 out/production/untitled104/practice/rev_array
 out/production/untitled104/practice/rev_array_temp
 out/production/untitled104/practice/row_col_sum
@@ -50,8 +47,6 @@ out/production/untitled104/practice/first_repeated_character
 out/production/untitled104/practice/substring_present
 out/production/untitled104/practice/string_to_integer
 out/production/untitled104/practice/remove_white_spaces
-out/production/untitled104/practice/remove_duplicate_characters
 
 out/production/untitled104/com/object_passing
 out/production/untitled104/com/inheritance_multiple
-out/production/untitled104/com/files/file_writer
