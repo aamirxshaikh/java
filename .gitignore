@@ -1,5 +1,4 @@
 src/practice/baskets
-src/practice/leap_year
 src/practice/lunch_boxes
 src/practice/lunch_boxes_2
 src/practice/lunch_boxes_3
@@ -26,7 +25,6 @@ src/com/object_passing
 src/com/inheritance_multiple
 
 out/production/untitled104/practice/baskets
-out/production/untitled104/practice/leap_year
 out/production/untitled104/practice/lunch_boxes
 out/production/untitled104/practice/lunch_boxes_2
 out/production/untitled104/practice/lunch_boxes_3
