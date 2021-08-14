@@ -2,7 +2,6 @@ src/practice/baskets
 src/practice/lunch_boxes
 src/practice/lunch_boxes_2
 src/practice/lunch_boxes_3
-src/practice/palindrome_string
 src/practice/pattern
 src/practice/prime_numbers
 src/practice/prime_numbers_between
@@ -27,7 +26,6 @@ out/production/untitled104/practice/baskets
 out/production/untitled104/practice/lunch_boxes
 out/production/untitled104/practice/lunch_boxes_2
 out/production/untitled104/practice/lunch_boxes_3
-out/production/untitled104/practice/palindrome_string
 out/production/untitled104/practice/pattern
 out/production/untitled104/practice/prime_numbers
 out/production/untitled104/practice/prime_numbers_between
