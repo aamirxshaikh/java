@@ -3,7 +3,6 @@ src/practice/lunch_boxes
 src/practice/lunch_boxes_2
 src/practice/lunch_boxes_3
 src/practice/pattern
-src/practice/prime_numbers
 src/practice/prime_numbers_between
 src/practice/get_random_element_array
 src/practice/rev_array
@@ -27,7 +26,6 @@ out/production/untitled104/practice/lunch_boxes
 out/production/untitled104/practice/lunch_boxes_2
 out/production/untitled104/practice/lunch_boxes_3
 out/production/untitled104/practice/pattern
-out/production/untitled104/practice/prime_numbers
 out/production/untitled104/practice/prime_numbers_between
 out/production/untitled104/practice/rev_array
 out/production/untitled104/practice/rev_array_temp
