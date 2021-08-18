@@ -6,9 +6,7 @@ src/practice/pattern
 src/practice/rev_array
 src/practice/rev_array_temp
 src/practice/row_col_sum
-src/practice/same_elements
 src/practice/split
-src/practice/check_same_element_array
 src/practice/multiple_random_numbers
 src/practice/sum_product_digits_in_number
 src/practice/first_repeated_character
@@ -27,9 +25,7 @@ out/production/untitled104/practice/pattern
 out/production/untitled104/practice/rev_array
 out/production/untitled104/practice/rev_array_temp
 out/production/untitled104/practice/row_col_sum
-out/production/untitled104/practice/same_elements
 out/production/untitled104/practice/split
-out/production/untitled104/practice/check_same_element_array
 out/production/untitled104/practice/multiple_random_numbers
 out/production/untitled104/practice/sum_product_digits_in_number
 out/production/untitled104/practice/first_repeated_character
