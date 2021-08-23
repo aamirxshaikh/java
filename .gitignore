@@ -7,7 +7,6 @@ src/practice/rev_array
 src/practice/row_col_sum
 src/practice/split
 src/practice/multiple_random_numbers
-src/practice/substring_present
 src/practice/string_to_integer
 src/practice/remove_white_spaces
 
@@ -23,7 +22,6 @@ out/production/untitled104/practice/rev_array
 out/production/untitled104/practice/row_col_sum
 out/production/untitled104/practice/split
 out/production/untitled104/practice/multiple_random_numbers
-out/production/untitled104/practice/substring_present
 out/production/untitled104/practice/string_to_integer
 out/production/untitled104/practice/remove_white_spaces
 
