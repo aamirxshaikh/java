@@ -2,7 +2,14 @@ src/practice/baskets
 src/practice/lunch_boxes
 src/practice/lunch_boxes_2
 src/practice/lunch_boxes_3
-src/practice/pattern
+src/practice/pattern/number
+src/practice/pattern/star/decreasing_triangle
+src/practice/pattern/star/left_sided
+src/practice/pattern/star/right_sided
+src/practice/pattern/star/rectangle
+src/practice/pattern/star/hill
+src/practice/pattern/star/reverse_hill
+src/practice/pattern/star/diamond
 src/practice/rev_array
 src/practice/row_col_sum
 src/practice/split
