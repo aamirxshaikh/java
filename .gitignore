@@ -3,7 +3,6 @@ src/practice/lunch_boxes
 src/practice/lunch_boxes_2
 src/practice/lunch_boxes_3
 src/practice/pattern/number
-src/practice/pattern/star/right_sided
 src/practice/pattern/star/rectangle
 src/practice/pattern/star/hill
 src/practice/pattern/star/reverse_hill
@@ -22,7 +21,6 @@ out/production/untitled104/practice/lunch_boxes
 out/production/untitled104/practice/lunch_boxes_2
 out/production/untitled104/practice/lunch_boxes_3
 out/production/untitled104/practice/pattern/number
-out/production/untitled104/practice/pattern/star/right_sided
 out/production/untitled104/practice/pattern/star/rectangle
 out/production/untitled104/practice/pattern/star/hill
 out/production/untitled104/practice/pattern/star/reverse_hill
