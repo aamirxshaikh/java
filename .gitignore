@@ -25,6 +25,8 @@ src/practice/remove_white_spaces
 src/com/object_passing
 src/com/inheritance_multiple
 
+src/dsa
+
 out/production/untitled104/practice/baskets
 out/production/untitled104/practice/leap_year
 out/production/untitled104/practice/lunch_boxes
@@ -50,3 +52,5 @@ out/production/untitled104/practice/remove_white_spaces
 
 out/production/untitled104/com/object_passing
 out/production/untitled104/com/inheritance_multiple
+
+out/production/untitled104/dsa
