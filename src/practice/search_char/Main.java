@@ -1,4 +1,4 @@
-package com.search_char;
+package practice.search_char;
 
 import java.util.Scanner;
 
