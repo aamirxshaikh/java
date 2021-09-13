@@ -1,6 +1,6 @@
 package com.generics.generic_class;
 
-public class Generic <V1, V2> {
+public class Generic <V1 extends Number, V2 extends Number> {
     V1 value1;
     V2 value2;
 
