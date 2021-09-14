@@ -1,8 +1,6 @@
-src/practice/baskets
 src/practice/lunch_boxes
 src/practice/lunch_boxes_2
 src/practice/lunch_boxes_3
-src/practice/pattern/star/rectangle
 src/practice/rev_array
 src/practice/row_col_sum
 src/practice/split
@@ -12,11 +10,9 @@ src/practice/string_to_integer
 src/com/object_passing
 src/com/inheritance_multiple
 
-out/production/untitled104/practice/baskets
 out/production/untitled104/practice/lunch_boxes
 out/production/untitled104/practice/lunch_boxes_2
 out/production/untitled104/practice/lunch_boxes_3
-out/production/untitled104/practice/pattern/star/rectangle
 out/production/untitled104/practice/rev_array
 out/production/untitled104/practice/row_col_sum
 out/production/untitled104/practice/split
