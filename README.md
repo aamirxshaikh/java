@@ -2,7 +2,15 @@
 
 This is a collection of Java programs that I've created while learning Java. The repository contains various small projects and exercises that cover different Java concepts and techniques.
 
-## Contents
+## Table of Contents
+
+- [Projects](#projects)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Projects
 
 Here are the main projects included in this repository:
 
@@ -78,23 +86,33 @@ The `practice` directory contains practice programs. Here are the subdirectories
 - `substring_present`: A program that checks whether a substring is present in a string.
 - `sum_product_digits_in_number`: A program that calculates the sum and product of the digits in a number.
 
-Each project is self-contained and can be run independently.
+## Installation
 
-## Getting Started
+1. To run the projects, you'll need to have Java installed on your machine. You can download Java from the [official website](https://www.java.com/en/download/).
 
-To run the projects, you'll need to have Java installed on your machine. You can download Java from the [official website](https://www.java.com/en/download/).
+2. (Optional) Install an Integrated Development Environment (IDE) such as IntelliJ IDEA or Visual Studio Code.
 
-Once you have Java installed, you can clone this repository to your local machine using the following command:
+   - To install IntelliJ IDEA, follow the instructions on the [official website](https://www.jetbrains.com/idea/download/)
+  
+   - To install Visual Studio Code, follow the instructions on the [official website](https://code.visualstudio.com/Download).
 
-`git clone https://github.com/aamirxshaikh/java.git`
 
+## Usage
 
-Each project has its own directory and contains a `Main` class that you can run to execute the program. For example, to run the `HelloWorld` program, navigate to the `HelloWorld` directory and run the following command:
+1. To use the projects in this repository, simply clone the repository to your local machine using the following command:
 
-```
-javac Main.java
-java Main
-```
+    `git clone https://github.com/aamirxshaikh/java.git`
+
+2. After you've cloned the repository to your local machine, you can either open the project directory in your preferred IDE or use a text editor to edit the code. Then, execute the following commands to run the project.
+
+    ```
+    javac Main.java
+    java Main
+    ```
+
+    This will compile and run the project's Main class. Each project is self-contained and can be run independently.
+
+3. Alternatively, if you're using an IDE like IntelliJ IDEA or Visual Studio Code, you can simply open the project in the IDE and run the program by clicking the "run" icon.
 
 ## Contributing
 
