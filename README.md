@@ -5,6 +5,9 @@ This is a collection of Java programs that I've created while learning Java. The
 ## Table of Contents
 
 - [Projects](#projects)
+   - [com](#com)
+   - [hackerrank](#hackerrank)
+   - [practice](#practice)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
