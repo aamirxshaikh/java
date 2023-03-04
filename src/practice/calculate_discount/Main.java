@@ -1,4 +1,4 @@
-package com.company;
+package practice.calculate_discount;
 
 import java.util.Scanner;
 
