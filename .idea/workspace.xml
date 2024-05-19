@@ -1,213 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="ChangeListManager">
-    <list default="true" id="b6b952bd-0604-4626-87d3-7d16149193ee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abstraction/Device.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abstraction/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abstraction/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/default_modifier/different_package/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/default_modifier/same_package/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/default_modifier/same_package/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/default_modifier/same_package/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/private_modifier/different_package/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/private_modifier/same_package/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/private_modifier/same_package/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/private_modifier/same_package/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/protected_modifier/different_package/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/protected_modifier/same_package/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/protected_modifier/same_package/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/protected_modifier/same_package/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/public_modifier/different_package/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/public_modifier/same_package/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/public_modifier/same_package/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/access_modifiers/public_modifier/same_package/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/accessor_and_mutator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/array_list/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/array_of_objects/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/constructor/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/copy_constructor/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/copy_constructor/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/copy_objects/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/copy_objects/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/encapsulation/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/encapsulation/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enums/Days.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enums/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enums/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enums/Season.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exception_handling/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/files/file_class/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/files/file_reader/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/files/file_reader/read.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/files/file_writer/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/generics/generic_class/Generic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/generics/generic_class/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/generics/method/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/get_set/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/inheritance/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/inheritance_super/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interfaces/Diver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interfaces/Jumper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interfaces/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interfaces/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interfaces/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/method_overriding/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/method_overriding/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/method_overriding/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/method_parameters/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/objects/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/objects/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pass_by_value/objects/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pass_by_value/primitives/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/polymorphism/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/polymorphism_2/Device.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/polymorphism_2/Laptop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/polymorphism_2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/polymorphism_2/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/polymorphism_3_dynamic/Device.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/polymorphism_3_dynamic/Laptop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/polymorphism_3_dynamic/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/polymorphism_3_dynamic/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/random/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/static_example/access_non_static_from_static/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/static_example/access_non_static_from_static/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/static_example/access_static_from_non_static/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/static_example/access_static_from_non_static/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/static_example/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/two_dimensional_array_list/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/two_dimensional_arrays/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/type_casting/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/type_inference/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/currency_formatter/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/datatypes_primitive_fit/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/date_and_time/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/end_of_file/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/even_nos/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/even_odd/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/int_to_string/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/loops_II_series/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/static_initializer_block/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/tag_content_extractor/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/basket_problem/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/calculate_discount/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/check_same_element_array/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/factorial/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/factorial_recursion/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/fibonacci/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/fibonacci_recursion/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/first_repeated_character/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/get_random_element_array/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/input_random_numbers_array/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/leap_year/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/palindrome_number/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/palindrome_string/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/number/alternate_number_diamond/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/number/decreasing_triangle_column_number/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/number/decreasing_triangle_number/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/number/hill_column_number/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/number/increasing_decreasing_diamond/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/number/increasing_number_diamond/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/number/increasing_triangle_alternate_number/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/number/increasing_triangle_column_number/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/number/increasing_triangle_number/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/star/decreasing_triangle/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/star/diamond/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/star/hill/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/star/increasing_triangle/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/star/left_sided/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/star/reverse_hill/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/pattern/star/right_sided/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/prime_number/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/prime_numbers_between/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/remove_white_spaces/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/rev_array_temp/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/search_char/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/substring_present/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/sum_product_digits_in_number/Main.java" beforeDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "aamirxshaikh"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:aamirxshaikh/java.git",
-    "accountId": "5fbe04d5-d3da-4e02-8112-7284d2204310"
-  }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
-  <component name="ProjectId" id="2gg17Fg6njn5c7YoTdzxs0pF4hT" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;D:/root/Code/IdeaProjects/java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
   }
-}]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="b6b952bd-0604-4626-87d3-7d16149193ee" name="Changes" comment="" />
-      <created>1716104240803</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1716104240803</updated>
-      <workItem from="1716104245384" duration="527000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+}</component>
+  <component name="RunManager" selected="Application.practice.factorial.Main">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.currency_formatter.Solution" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.currency_formatter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hackerrank.even_odd.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.even_odd.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.even_odd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice.basket_problem.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.basket_problem.Solution" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.basket_problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice.calculate_discount.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.calculate_discount.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.calculate_discount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice.factorial.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.factorial.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.factorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.practice.factorial.Main" />
+        <item itemvalue="Application.practice.basket_problem.Solution" />
+        <item itemvalue="Application.practice.calculate_discount.Main" />
+        <item itemvalue="Application.hackerrank.even_odd.Main" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
   </component>
 </project>
