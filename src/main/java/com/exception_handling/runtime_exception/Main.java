@@ -1,6 +1,5 @@
-package com.exception_handling;
+package com.exception_handling.runtime_exception;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
